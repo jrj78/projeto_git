@@ -1,1 +1,2 @@
-teste como usar o git e github
+teste como usar o Git e github
+Isso é uma alteração
